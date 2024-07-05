@@ -22,6 +22,16 @@ class BackupTool {
                 'step_two_text' => 'Please authorize the application by visiting this URL: %s',
                 'reset_success' => 'Settings have been reset successfully.',
             ],
+
+            'tr' => [
+                'error' => 'Hata',
+                'info' => 'Bilgi',
+                'success' => 'Başarılı',
+                'server_folder_invalid' => 'Sunucu yedekleme klasörü geçersiz.',
+                'settings_saved' => 'Ayarlar başarıyla kaydedildi.',
+                'step_two_text' => 'Lütfen bu URL\'yi ziyaret ederek uygulamayı yetkilendirin: %s',
+                'reset_success' => 'Ayarlar başarıyla sıfırlandı.',
+            ]
         ];
         $this->lang = 'en';
     }
